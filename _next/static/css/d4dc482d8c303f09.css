@@ -1,0 +1,1 @@
+.carousel-container{display:flex;justify-content:center;align-items:center;position:relative}.card{border-radius:10px;transition:transform .5s ease,z-index .5s ease;position:relative;z-index:2;margin-inline:-141px;transform:scale(.8)}.card:first-child,.card:last-child{z-index:1}.card.active{transform:scale(1);z-index:3}
